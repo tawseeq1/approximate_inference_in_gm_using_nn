@@ -18,7 +18,7 @@ The goal is to perform approximate inference in a graphical model where we want 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/approximate-inference-graphical-models.git
+git clone https://github.com/tawseeq1/approximate-inference-graphical-models.git
 cd approximate-inference-graphical-models
 
 # Install dependencies
