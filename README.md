@@ -18,8 +18,8 @@ The goal is to perform approximate inference in a graphical model where we want 
 
 ```bash
 # Clone the repository
-git clone https://github.com/tawseeq1/approximate-inference-graphical-models.git
-cd approximate-inference-graphical-models
+git clone https://github.com/tawseeq1/approximate_inference_in_gm_using_nn.git
+cd approximate_inference_in_gm_using_nn
 
 # Install dependencies
 pip install numpy pandas matplotlib seaborn scikit-learn tensorflow networkx
@@ -28,7 +28,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow networkx
 ## Project Structure
 
 ```
-approximate-inference-graphical-models/
+approximate_inference_in_gm_using_nn/
 │
 ├── main.py                   # Main script that orchestrates the workflow
 ├── data/
