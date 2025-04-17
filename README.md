@@ -22,7 +22,7 @@ git clone https://github.com/yourusername/approximate-inference-graphical-models
 cd approximate-inference-graphical-models
 
 # Install dependencies
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow networkx
+pip install -r requirements.txt
 ```
 
 ## Project Structure
